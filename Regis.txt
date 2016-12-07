@@ -1,0 +1,9 @@
+886473 Object-Oriented Analysis and Design 3 Wed SD-513 10.00-13.00
+886457 Introduction to Digital Signal Processing 3 Tue SD-514 13.00-16.00
+886492 Seminar in Computer Science 3 Fri SD-506 13.00-15.00
+886493 Selected Topic in Computer Science I 3 Mon SD-319 16.00-19.00
+886494 Selected Topic in Computer Science II 3 Fri SD-513 08.00-12.00
+
+
+
+
